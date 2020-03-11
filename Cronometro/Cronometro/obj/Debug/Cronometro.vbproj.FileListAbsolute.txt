@@ -1,0 +1,7 @@
+C:\Users\Christopher\Documents\SharpDevelop Projects\Cronometro\Cronometro\obj\Debug\Cronometro.vbprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\SharpDevelop Projects\Cronometro\Cronometro\obj\Debug\Cronometro.MainForm.resources
+C:\Users\Christopher\Documents\SharpDevelop Projects\Cronometro\Cronometro\obj\Debug\Cronometro.vbproj.GenerateResource.Cache
+C:\Users\Christopher\Documents\SharpDevelop Projects\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+C:\Users\Christopher\Documents\SharpDevelop Projects\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+C:\Users\Christopher\Documents\SharpDevelop Projects\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+C:\Users\Christopher\Documents\SharpDevelop Projects\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
